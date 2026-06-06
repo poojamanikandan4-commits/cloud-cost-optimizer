@@ -131,7 +131,7 @@ with st.sidebar:
     )
 
     st.divider()
-    st.caption("AI Prototype Challenge — VSB Group\nBuilt with Python · Streamlit · SQLite")
+    st.caption("Cloud cost optimizer - TriNova \nBuilt with Python · Streamlit · SQLite")
 
 
 # ════════════════════════════════════════════
