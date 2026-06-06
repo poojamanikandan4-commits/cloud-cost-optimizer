@@ -183,15 +183,12 @@ streamlit/streamlit
 
 
 
-\*\*API Endpoint\*\*
-
-https://api.github.com/repos/{owner}/{repo}
-
-
 
 \---
 
 ## 📬 Contact
 
-For questions, contact the placement team as instructed in the challenge brief.
+Pooja M M - poojavsb074@gmail.com
+Sandhya K - sandhyakannan61@gmail.com
+Shijitha Jenifer J - shijithajenifer2005@gmail.com
 
