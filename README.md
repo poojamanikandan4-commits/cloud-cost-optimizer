@@ -12,7 +12,7 @@
 ## Demo Video
 
 Watch the demo here:
-[https://your-video-link-here](https://drive.google.com/file/d/1uvLa-uPIwEOAAzcxdQagUePUukZvRpvT/view?usp=drivesdk)
+[Click for Demo Video](https://drive.google.com/file/d/1uvLa-uPIwEOAAzcxdQagUePUukZvRpvT/view?usp=drivesdk)
 
 ## 🚀 Features
 
