@@ -15,8 +15,8 @@ https://cloud-cost-optimizer-osbb9jqmjnwvzolmv8ru4d.streamlit.app/
 ## Demo Video
 
 Watch the demo here:
-[Click for Demo Video](https://drive.google.com/file/d/1uvLa-uPIwEOAAzcxdQagUePUukZvRpvT/view?usp=drivesdk)
-
+[Drive Link](https://drive.google.com/file/d/1uvLa-uPIwEOAAzcxdQagUePUukZvRpvT/view?usp=drivesdk)
+[Link}(https://poojamanikandan4-commits.github.io/Demo-Video/)
 ## 🚀 Features
 
 * **Agent Loop**: Analyze → Evaluate → Recommend → Verify → Final Report
