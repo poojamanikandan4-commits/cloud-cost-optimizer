@@ -197,6 +197,5 @@ streamlit/streamlit
 ## 📬 Contact
 
 Pooja M M - poojavsb074@gmail.com
-Sandhya K - sandhyakannan61@gmail.com
-Shijitha Jenifer J - shijithajenifer2005@gmail.com
+
 
